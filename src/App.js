@@ -76,7 +76,8 @@ class App extends Component {
 
         return (
             <div className="App">
-                <h1>Working with Lists and Conditionals</h1>
+                <h1>Working with Lists and Conditionals FINAL TASK</h1>
+                <input type="text" defaultValue={"click here"}/>
                 <button
                     style={style}
                     onClick={this.togglePersonHandler}>Show or not the person list
